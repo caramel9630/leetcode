@@ -1,4 +1,4 @@
-package org.example.算法01.三数之和;
+package org.example.算法01.相向双指针;
 
 import java.util.*;
 
